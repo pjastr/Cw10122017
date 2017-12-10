@@ -1,0 +1,5 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.pdb
